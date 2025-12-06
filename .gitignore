@@ -23,9 +23,9 @@ ENV/
 Thumbs.db
 
 # Model files (uncomment if you don't want to track large model files)
-# *.pth
-# *.h5
-# *.pt
+*.pth
+*.h5
+*.pt
 
 # Temporary files
 temp.jpg
