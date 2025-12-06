@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+
+numpy
+pillow
+opencv-python
+h5py
+matplotlib
+tqdm
+
+albumentations
+scikit-image
+
+streamlit
